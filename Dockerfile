@@ -1,5 +1,5 @@
 # Pull base image 
-From alpine:latest
+From tomcat:alpine
 
 # Maintainer 
 MAINTAINER "devopskvk@gmail.com" 
