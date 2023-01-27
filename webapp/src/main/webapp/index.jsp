@@ -9,3 +9,5 @@
 <h1> Permission denied issue due to the path and docker image is not working with jdk, used alpine to test the same and workd as expected.</h1>
 
 <h5> Interating with jenkins->dockerhub-:ansible->docker server <h5>
+
+<h1> How to check the error while running the docker commands through over ssh <h1>
